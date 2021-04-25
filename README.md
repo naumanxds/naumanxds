@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naumanxds
 - 👀 I’m interested in php and python development
 - 🌱 I’m currently learning and working in different frameworks of php including ecommerce platforms like shopify, shopware
-- 💞️ I’m looking to collaborate on plugins for different php ecommerce platforms as well as laravel and symfony
+- 💞️ I’m looking to collaborate on plugins for php ecommerce platforms, I am willing to work on laravel and php projects as well as I can work in python.
 - 📫 You can reach me on my skype @ nauman.nasir919@gmail.com
 
 <!---
