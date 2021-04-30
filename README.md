@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naumanxds
+- 👋 Hi, I’m Nauman Nasir
 - 👀 I’m interested in php and python development
 - 🌱 I’m currently learning and working in different frameworks of php including ecommerce platforms like shopify, shopware
 - 💞️ I’m looking to collaborate on plugins for php ecommerce platforms, I am willing to work on laravel and php projects as well as I can work in python.
